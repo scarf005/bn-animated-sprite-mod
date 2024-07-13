@@ -1,5 +1,25 @@
 [
   {
+    "id": "hair_wavy",
+    "//": "This trait flag is used by cosmetic trait JSON, with no hardcode usage at present.",
+    "type": "mutation_flag"
+  },
+  {
+    "id": "hair_dark_blue",
+    "//": "This trait flag is used by cosmetic trait JSON, with no hardcode usage at present.",
+    "type": "mutation_flag"
+  },
+  {
+    "id": "hair_green",
+    "//": "This trait flag is used by cosmetic trait JSON, with no hardcode usage at present.",
+    "type": "mutation_flag"
+  },
+  {
+    "id": "hair_purple",
+    "//": "This trait flag is used by cosmetic trait JSON, with no hardcode usage at present.",
+    "type": "mutation_flag"
+  },
+  {
     "id": "hair_blond_wavy",
     "type": "mutation",
     "name": "머리: 찰랑거리는 금색 긴머리",
@@ -65,7 +85,7 @@
     "types": ["hair_style"]
   },
   {
-    "id": "hair_5a95f5_wavy",
+    "id": "hair_blue_wavy",
     "type": "mutation",
     "name": "머리: 찰랑거리는 이웨카 블루 롱 헤어",
     "description": "찰랑거리는 진한 푸른색의 긴 머리입니다.",
@@ -74,7 +94,7 @@
     "valid": false,
     "purifiable": false,
     "player_display": false,
-    "flags": ["hair_5a95f5", "hair_wavy"],
+    "flags": ["hair_blue", "hair_wavy"],
     "types": ["hair_style"]
   },
   {
